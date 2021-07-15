@@ -1,0 +1,1 @@
+{"version":3,"sources":["Sum.css","App.scss"],"names":[],"mappings":"AAAA,KACE,eAAgB,CAEhB,WACF,CCJA,KACE,YAAa,CACb,qBAAsB,CACtB,kBAAmB,CACnB,wBAAoC","file":"main.10372e28.chunk.css","sourcesContent":[".sum {\n  font-size: 1.5em;\n \n  padding: 4px;\n}\n",".app {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  background-color: rgb(104, 104, 224);\n}\n"]}
